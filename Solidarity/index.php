@@ -1,5 +1,5 @@
 <?php
-KOn
+//Komen Pertama
 /**
  * CodeIgniter
  *
