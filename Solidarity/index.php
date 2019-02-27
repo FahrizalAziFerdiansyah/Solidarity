@@ -1,12 +1,11 @@
 <?php
-nava gendut
-Niske kurus
+Tes
 /**
  * CodeIgniter
  *
  * An open source application development framework for PHP
  *
- * This content is released under the MIT License (MIT)
+ * This content is released under the MIT License (MIT) gvgvvvgvvgvgg
  *
  * Copyright (c) 2014 - 2016, British Columbia Institute of Technology
  *
@@ -28,8 +27,8 @@ Niske kurus
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  * 
- * 
- * 
+ * sasasaasaasasa
+ * iuoiuoiuiouiuiu
  *
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
