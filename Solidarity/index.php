@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 nyoba
+=======
+
+>>>>>>> b9dada43fffd04f082d6385285cceff346d9b17c
 /**
  * CodeIgniter
  *
